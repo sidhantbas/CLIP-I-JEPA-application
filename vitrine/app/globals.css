@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+/* The vitrine's design tokens: editorial monochrome on warm paper,
+   one accent, fired only at moments of recovered accessibility. */
+:root {
+  --paper: #faf9f6;
+  --ink: #191817;
+  --ink-soft: #6b6862;
+  --hairline: #e4e1d8;
+  --wash: #f1efe9;
+  --accent: #c2410c;
+  --good: #1a8a4a;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-anchor: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-variant-numeric: tabular-nums oldstyle-nums;
+  -webkit-font-smoothing: antialiased;
+  /* The curtains hold sticky boxes inside tall overlays; Chrome's
+     scroll anchoring feedback-loops against them and walks the page.
+     The layout keeps its own heights stable, so anchoring is waived. */
+  overflow-anchor: none;
+}
+
+.ui-sans {
+  font-family: ui-sans-serif, system-ui, "Helvetica Neue", sans-serif;
+}
+
+.figure-number {
+  font-variant-numeric: tabular-nums lining-nums;
+  letter-spacing: -0.01em;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
+
+.hairline { border-color: var(--hairline); }
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+button:focus-visible, [role="button"]:focus-visible, a:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}

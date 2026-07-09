@@ -1,0 +1,15 @@
+{
+ "namer": {
+  "glance": 0.424,
+  "scrutiny": 0.758
+ },
+ "sculptor": {
+  "glance_pooled": 0.246,
+  "scrutiny_pooled": 0.144,
+  "token_glance": 0.21,
+  "attend": 0.352,
+  "token_scrutiny": 0.2
+ },
+ "episodes": 500,
+ "verdict": "pooled blind"
+}

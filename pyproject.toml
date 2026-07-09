@@ -1,0 +1,13 @@
+[project]
+name = "atelier"
+version = "0.1.0"
+description = "A miniature world where two ways of knowing meet: the Namer and the Sculptor."
+requires-python = ">=3.10"
+dependencies = ["torch", "numpy", "matplotlib", "tqdm"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["atelier*"]

@@ -1,0 +1,10 @@
+# Cloudflare Pages headers: the models and runtime never change between
+# deploys with the same export, so they may be cached hard.
+/models/*
+  Cache-Control: public, max-age=31536000, immutable
+/ort/*
+  Cache-Control: public, max-age=31536000, immutable
+/data/*
+  Cache-Control: public, max-age=86400
+/results/*
+  Cache-Control: public, max-age=86400

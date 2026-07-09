@@ -1,0 +1,134 @@
+{
+ "chance": {
+  "form": 0.25,
+  "color": 0.2,
+  "position": 0.1111111111111111,
+  "orientation": 0.125
+ },
+ "namer": {
+  "form": {
+   "glance": {
+    "mean": 0.8137,
+    "std": 0.0014
+   },
+   "scrutiny": {
+    "mean": 0.8012,
+    "std": 0.0068
+   }
+  },
+  "color": {
+   "glance": {
+    "mean": 0.8753,
+    "std": 0.0002
+   },
+   "scrutiny": {
+    "mean": 0.8518,
+    "std": 0.0022
+   }
+  },
+  "position": {
+   "glance": {
+    "mean": 0.7932,
+    "std": 0.0006
+   },
+   "scrutiny": {
+    "mean": 0.7608,
+    "std": 0.0062
+   }
+  },
+  "orientation": {
+   "glance": {
+    "mean": 0.319,
+    "std": 0.0025
+   },
+   "scrutiny": {
+    "mean": 0.2862,
+    "std": 0.0033
+   }
+  }
+ },
+ "sculptor": {
+  "form": {
+   "glance": {
+    "mean": 0.3747,
+    "std": 0.0036
+   },
+   "scrutiny": {
+    "mean": 0.418,
+    "std": 0.0012
+   }
+  },
+  "color": {
+   "glance": {
+    "mean": 0.8353,
+    "std": 0.0013
+   },
+   "scrutiny": {
+    "mean": 0.8598,
+    "std": 0.0033
+   }
+  },
+  "position": {
+   "glance": {
+    "mean": 0.3482,
+    "std": 0.0021
+   },
+   "scrutiny": {
+    "mean": 0.3785,
+    "std": 0.0037
+   }
+  },
+  "orientation": {
+   "glance": {
+    "mean": 0.1298,
+    "std": 0.0022
+   },
+   "scrutiny": {
+    "mean": 0.1243,
+    "std": 0.0027
+   }
+  }
+ },
+ "pixels": {
+  "form": {
+   "glance": {
+    "mean": 0.3647,
+    "std": 0.0002
+   },
+   "scrutiny": {
+    "mean": 0.4418,
+    "std": 0.0031
+   }
+  },
+  "color": {
+   "glance": {
+    "mean": 0.7982,
+    "std": 0.0006
+   },
+   "scrutiny": {
+    "mean": 0.8325,
+    "std": 0.0023
+   }
+  },
+  "position": {
+   "glance": {
+    "mean": 0.701,
+    "std": 0.0004
+   },
+   "scrutiny": {
+    "mean": 0.721,
+    "std": 0.0012
+   }
+  },
+  "orientation": {
+   "glance": {
+    "mean": 0.1303,
+    "std": 0.0008
+   },
+   "scrutiny": {
+    "mean": 0.1923,
+    "std": 0.0039
+   }
+  }
+ }
+}

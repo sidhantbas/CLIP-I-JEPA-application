@@ -1,0 +1,1075 @@
+ INFO  Accepting connections at http://localhost:4173
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 37 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/css/1f75f5d8f58a2cfa.css
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:40:48 PM ::1 GET /_next/static/chunks/app/page-3659bee3135d96ef.js
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 0 ms
+ HTTP  7/6/2026 11:40:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 5 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 5 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /favicon.ico
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 404 in 1 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 11 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 16 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 13 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 36 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 10 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 11 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 20 ms
+ HTTP  7/6/2026 11:40:49 PM ::1 Returned 200 in 24 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/css/1f75f5d8f58a2cfa.css
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /_next/static/chunks/app/page-3659bee3135d96ef.js
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:43:09 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/css/e4183347f3752144.css
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 200 in 5 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 6 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /_next/static/chunks/app/page-836797109f792306.js
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 9 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 200 in 1 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 12 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 17 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 6 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 32 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 8 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 8 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 14 ms
+ HTTP  7/6/2026 11:46:42 PM ::1 Returned 304 in 18 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/css/e4183347f3752144.css
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /_next/static/chunks/app/page-30b3e91be1e00bff.js
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 6 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 8 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 12 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 17 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 30 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 16 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 17 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 20 ms
+ HTTP  7/6/2026 11:48:25 PM ::1 Returned 304 in 21 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 200 in 13 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/css/8a03b19b223137a1.css
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /_next/static/chunks/app/page-f5a41ceef3136200.js
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 11 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 15 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 6 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 11 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 31 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 9 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 9 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 19 ms
+ HTTP  7/6/2026 11:52:18 PM ::1 Returned 304 in 21 ms
+ HTTP  7/6/2026 11:54:01 PM ::1 GET /results/report.md
+ HTTP  7/6/2026 11:54:01 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 200 in 3 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:26 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:54:26 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:27 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/css/8a03b19b223137a1.css
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/app/page-f5a41ceef3136200.js
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 0 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/css/a4d1a0ba3530810b.css
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 200 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /_next/static/chunks/app/page-edbfe5784029bb99.js
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 200 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 11 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 8 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 32 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 10 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 10 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 16 ms
+ HTTP  7/6/2026 11:54:59 PM ::1 Returned 304 in 19 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 200 in 14 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/css/245a87deeef96517.css
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 200 in 5 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 5 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 6 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /_next/static/chunks/app/page-edbfe5784029bb99.js
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 1 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/tokenizer.json
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/bank_latents.f32
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/bank_patches.u8
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /results/interrogation.json
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/constellation.json
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /results/barman_unpooled.json
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/heads.json
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 4 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 14 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 18 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/press_std.f32
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/press_mean.f32
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /data/token_glance_state.f32
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 2 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 7 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 26 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/imagination.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/tongue.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/gaze.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 GET /models/eye.onnx
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 3 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 8 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 10 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 16 ms
+ HTTP  7/6/2026 11:59:36 PM ::1 Returned 304 in 18 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /_next/static/chunks/app/page-edbfe5784029bb99.js
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 14 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 10 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 19 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 24 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 25 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 8 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 12 ms
+ HTTP  7/7/2026 12:00:52 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 8 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/app/page-edbfe5784029bb99.js
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:03:48 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 200 in 3 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/app/page-cc516a9a0b0507af.js
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 7 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 17 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 8 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 12 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 31 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 8 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 24 ms
+ HTTP  7/7/2026 12:06:08 AM ::1 Returned 304 in 27 ms
+ HTTP  7/7/2026 12:12:23 AM ::1 GET /
+ HTTP  7/7/2026 12:12:23 AM ::1 Returned 200 in 3 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/app/page-cc516a9a0b0507af.js
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:12:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/app/page-171ff580014c9a5f.js
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 6 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 7 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 7 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 7 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 12 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 40 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 13 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 17 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 17 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 23 ms
+ HTTP  7/7/2026 12:21:04 AM ::1 Returned 304 in 26 ms
+ HTTP  7/7/2026 12:22:28 AM ::1 GET /results/parity.json
+ HTTP  7/7/2026 12:22:28 AM ::1 Returned 200 in 24 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:43 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 200 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/app/page-171ff580014c9a5f.js
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 12:22:53 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 12:22:53 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 12:22:54 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /_next/static/chunks/app/page-171ff580014c9a5f.js
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:27:38 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /_next/static/chunks/app/page-171ff580014c9a5f.js
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 16 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 5 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 15 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 37 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 9 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 15 ms
+ HTTP  7/7/2026 1:28:06 AM ::1 Returned 304 in 16 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 200 in 2 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/4bd1b696-c023c6e3521b1417.js
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/css/ae66bd7a5d91c291.css
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/main-app-98d6e730fb17e199.js
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/255-3a91f01e1c0f613e.js
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/webpack-d6333a93cf04b48e.js
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/037f3a08-e35df84856feeb3d.js
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/app/page-d8d32dfec43d1b7d.js
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /_next/static/chunks/106-351b2f4ea352165b.js
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 200 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 3 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /data/tokenizer.json
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.mjs
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /data/bank_latents.f32
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /data/bank_patches.u8
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /results/interrogation.json
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /results/interrogation_unpooled.json
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /results/handshake_unpooled.json
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /results/barman_unpooled.json
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /data/constellation.json
+ HTTP  7/7/2026 1:45:24 AM ::1 GET /data/heads.json
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 8 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:24 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /ort/ort-wasm-simd-threaded.jsep.wasm
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /data/press_mean.f32
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /data/press_std.f32
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /data/token_glance_state.f32
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /data/token_glance_pair.f32
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 0 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 1 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 4 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 21 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/gaze.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/tongue.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/eye.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/imagination.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/bridge_pooled.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 GET /models/bridge_attentive.onnx
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 2 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 6 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 6 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 10 ms
+ HTTP  7/7/2026 1:45:25 AM ::1 Returned 304 in 12 ms
+
+ INFO  Gracefully shutting down. Please wait...

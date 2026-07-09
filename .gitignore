@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+results/*
+!results/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+darkroom/data/
+darkroom/results/
+vitrine/node_modules/
+vitrine/out/
+vitrine/.next/

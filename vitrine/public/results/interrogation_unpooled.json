@@ -1,0 +1,128 @@
+{
+ "chance": {
+  "position": 0.1111111111111111,
+  "orientation": 0.125
+ },
+ "namer": {
+  "position": {
+   "glance_pooled": {
+    "mean": 0.7932,
+    "std": 0.0006
+   },
+   "scrutiny_pooled": {
+    "mean": 0.7608,
+    "std": 0.0062
+   },
+   "glance_tokens": {
+    "mean": 0.773,
+    "std": 0.002
+   },
+   "attend": {
+    "mean": 0.7865,
+    "std": 0.0015
+   },
+   "scrutiny_tokens": {
+    "mean": 0.807,
+    "std": 0.0064
+   }
+  },
+  "orientation": {
+   "glance_pooled": {
+    "mean": 0.319,
+    "std": 0.0025
+   },
+   "scrutiny_pooled": {
+    "mean": 0.2862,
+    "std": 0.0033
+   },
+   "glance_tokens": {
+    "mean": 0.3072,
+    "std": 0.0022
+   },
+   "attend": {
+    "mean": 0.3247,
+    "std": 0.0002
+   },
+   "scrutiny_tokens": {
+    "mean": 0.3497,
+    "std": 0.0027
+   }
+  }
+ },
+ "sculptor": {
+  "position": {
+   "glance_pooled": {
+    "mean": 0.3482,
+    "std": 0.0021
+   },
+   "scrutiny_pooled": {
+    "mean": 0.3785,
+    "std": 0.0037
+   },
+   "glance_tokens": {
+    "mean": 0.6892,
+    "std": 0.002
+   },
+   "attend": {
+    "mean": 0.4362,
+    "std": 0.0037
+   },
+   "scrutiny_tokens": {
+    "mean": 0.3375,
+    "std": 0.0
+   }
+  },
+  "orientation": {
+   "glance_pooled": {
+    "mean": 0.1298,
+    "std": 0.0022
+   },
+   "scrutiny_pooled": {
+    "mean": 0.1243,
+    "std": 0.0027
+   },
+   "glance_tokens": {
+    "mean": 0.1272,
+    "std": 0.0042
+   },
+   "attend": {
+    "mean": 0.124,
+    "std": 0.0057
+   },
+   "scrutiny_tokens": {
+    "mean": 0.1218,
+    "std": 0.0104
+   }
+  }
+ },
+ "pixels": {
+  "position": {
+   "glance_pooled": {
+    "mean": 0.701,
+    "std": 0.0004
+   },
+   "scrutiny_pooled": {
+    "mean": 0.721,
+    "std": 0.0012
+   },
+   "glance_tokens": {
+    "mean": 0.558,
+    "std": 0.0023
+   }
+  },
+  "orientation": {
+   "glance_pooled": {
+    "mean": 0.1303,
+    "std": 0.0008
+   },
+   "scrutiny_pooled": {
+    "mean": 0.1923,
+    "std": 0.0039
+   },
+   "glance_tokens": {
+    "mean": 0.1167,
+    "std": 0.0015
+   }
+  }
+ }
+}

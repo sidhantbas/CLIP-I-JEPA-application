@@ -1,0 +1,11 @@
+{
+ "namer": {
+  "glance": 0.424,
+  "scrutiny": 0.758
+ },
+ "sculptor": {
+  "glance": 0.246,
+  "scrutiny": 0.144
+ },
+ "episodes": 500
+}

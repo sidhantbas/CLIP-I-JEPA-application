@@ -1,0 +1,219 @@
+   ▲ Next.js 15.5.20
+   - Local:        http://localhost:4174
+   - Network:      http://10.77.214.119:4174
+
+ ✓ Starting...
+ ✓ Ready in 1172ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.9s (1325 modules)
+ GET / 200 in 4150ms
+ ✓ Compiled in 2.4s (1325 modules)
+ GET / 200 in 54ms
+ ✓ Compiled in 193ms (1325 modules)
+ GET / 200 in 52ms
+ GET / 200 in 147ms
+ ✓ Compiled in 109ms (1325 modules)
+ GET / 200 in 52ms
+ ✓ Compiled in 102ms (1325 modules)
+ GET / 200 in 27ms
+ ✓ Compiled in 101ms (1325 modules)
+ GET / 200 in 25ms
+ ✓ Compiled in 409ms (1325 modules)
+ GET / 200 in 51ms
+ ✓ Compiled in 103ms (1325 modules)
+ GET / 200 in 26ms
+ ✓ Compiled in 111ms (1325 modules)
+ GET / 200 in 24ms
+ ✓ Compiled in 101ms (1325 modules)
+ GET / 200 in 29ms
+ ✓ Compiled in 107ms (1325 modules)
+ GET / 200 in 28ms
+ ✓ Compiled in 112ms (1325 modules)
+ GET / 200 in 27ms
+ ✓ Compiled in 85ms (612 modules)
+ GET / 200 in 45ms
+ ✓ Compiled in 50ms (612 modules)
+ GET / 200 in 8ms
+ ✓ Compiled in 46ms (612 modules)
+ GET / 200 in 10ms
+ ✓ Compiled in 40ms (612 modules)
+ GET / 200 in 9ms
+ ✓ Compiled in 53ms (612 modules)
+ GET / 200 in 2146ms
+ ✓ Compiled in 2.2s (612 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1565ms (1658 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+ GET / 500 in 3112ms
+ GET / 500 in 236ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+ GET / 500 in 695ms
+ GET / 500 in 232ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+ GET / 500 in 665ms
+ GET / 500 in 236ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+ GET / 500 in 689ms
+ GET / 500 in 270ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/sid/Atelier/vitrine/.next/routes-manifest.json'
+}
+ GET / 500 in 714ms
+ GET / 500 in 261ms
+ ✓ Compiled in 124ms (765 modules)
+ ✓ Compiled in 2.2s (765 modules)
+ ✓ Compiled in 47ms (765 modules)
+[?25h
