@@ -1,0 +1,15 @@
+# Netlify config for the vitrine (Next.js static export).
+# The site lives in vitrine/; the repo root is a Python project.
+[build]
+  # Run the build from inside vitrine/. `base` also scopes where
+  # dependencies are installed and cached.
+  base = "vitrine"
+  # gather.mjs copies export/out + report.md + ort wasm into public/,
+  # then next build produces a static export in out/.
+  command = "npm run build"
+  # `publish` is relative to `base`, so this is vitrine/out.
+  publish = "out"
+
+[build.environment]
+  # Match the Node version used locally (v22).
+  NODE_VERSION = "22"
